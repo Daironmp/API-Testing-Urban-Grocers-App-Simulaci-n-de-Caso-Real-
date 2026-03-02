@@ -41,7 +41,8 @@ El sistema ahora cumple correctamente con los requisitos funcionales.
 
 ### Ejecución en Postman
 
-![Postman Test](images/postman-test.png)
+![caso de prueba 5](https://raw.githubusercontent.com/Daironmp/API-Testing-Urban-Grocers-App-Simulaci-n-de-Caso-Real-/refs/heads/main/caso%20de%20prueba%205.PNG)
+
 
 ### Reporte de Bug en Jira
 
