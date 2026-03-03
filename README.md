@@ -46,4 +46,4 @@ El sistema ahora cumple correctamente con los requisitos funcionales.
 
 ### Reporte de Bug en Jira
 
-![Bug Jira]https://dairon-manzo.atlassian.net/browse/KAN-3
+[Ver Bug en Jira](https://dairon-manzo.atlassian.net/browse/KAN-25)
